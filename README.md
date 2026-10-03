@@ -6,8 +6,8 @@
 
 *El cielo no tiene bordes y este código compila solo mientras duermes.*
 
-![Estado: explorando](https://img.shields.io/badge/ESTADO-EXPLORANDO-00e5ff?style=for-the-badge&labelColor=171b22)
-![Modo: nocturno](https://img.shields.io/badge/MODO-NOCTURNO-9b5de5?style=for-the-badge&labelColor=171b22)
+<a href="https://www.instagram.com/julifra_o?stkn=NmFxY2lxa3kyYnl6&utm_source=qr"><img src="https://img.shields.io/badge/ESTADO-EXPLORANDO-00e5ff?style=for-the-badge&labelColor=171b22" alt="Estado: explorar mi Instagram"></a>
+<a href="https://open.spotify.com/user/kpwcck3l92wf80w8kqnoemxa5?si=LUOOclmDQJ-whJoZeeDabw&utm_source=copy-link"><img src="https://img.shields.io/badge/MODO-NOCTURNO-9b5de5?style=for-the-badge&labelColor=171b22" alt="Modo: escuchar mi Spotify"></a>
 ![Señal: activa](https://img.shields.io/badge/SE%C3%91AL-ACTIVA-00f5a0?style=for-the-badge&labelColor=171b22)
 
 <br>
@@ -38,14 +38,14 @@ regla_del_espacio:
 ### 🧬 SOBRE MÍ
 
 - `> Actualmente:` [cuenta qué estás haciendo]
-- `> Me interesa:` [tecnología, diseño, música...]
+- `> Me interesa:` [tecnología, videojuegos y el espacio]
 - `> Aprendiendo:` [lenguaje o herramienta]
 
 ### 🛠️ TECNOLOGÍAS
 
 <!-- Cambia o elimina las tecnologías para que coincidan con las que usas. -->
-![Tecnologías](https://img.shields.io/badge/HTML5-171b22?style=flat-square&logo=html5&logoColor=00e5ff)
-![Tecnologías](https://img.shields.io/badge/CSS3-171b22?style=flat-square&logo=css3&logoColor=9b5de5)
+![Tecnologías](https://img.shields.io/badge/HTML-171b22?style=flat-square&logo=html5&logoColor=00e5ff)
+![Tecnologías](https://img.shields.io/badge/Python-171b22?style=flat-square&logo=python&logoColor=9b5de5)
 ![Tecnologías](https://img.shields.io/badge/JavaScript-171b22?style=flat-square&logo=javascript&logoColor=00f5a0)
 
 ### 📡 TRANSMISIONES
