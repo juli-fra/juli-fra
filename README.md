@@ -1,46 +1,59 @@
 <div align="center">
 
-<!-- BANNER PRINCIPAL -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3d2p0eTR2YmlzNGFudG5va2R4b2UycnduNW5hOHlyeDN2b2ZreCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt481isNVuQI1l6/giphy.gif" width="100%" height="220" style="object-fit: cover; border-radius: 8px;" alt="dreamcore banner"/>
+# 👁 ¿HAY UN SÍ O UN SÍ? ☁️
 
-<br/><br/>
+### `juli-fra` · perfil en línea
 
-<!-- 👉 AQUÍ PUEDES PONER TU NOMBRE SI QUIERES QUE SE VEA EN GRANDE -->
-# 👁️ ¿ Ｈ Ａ Ｓ   Ｅ Ｓ Ｔ Ａ Ｄ Ｏ   Ａ Ｑ Ｕ Ｉ   Ａ Ｎ Ｔ Ｅ Ｓ ？ ☁️
+*El cielo no tiene bordes y este código compila solo mientras duermes.*
 
-<p align="center">
-  <i>"El cielo no tiene bordes y este código compila solo mientras duermes."</i>
-</p>
+![Estado: explorando](https://img.shields.io/badge/ESTADO-EXPLORANDO-00e5ff?style=for-the-badge&labelColor=171b22)
+![Modo: nocturno](https://img.shields.io/badge/MODO-NOCTURNO-9b5de5?style=for-the-badge&labelColor=171b22)
+![Señal: activa](https://img.shields.io/badge/SE%C3%91AL-ACTIVA-00f5a0?style=for-the-badge&labelColor=171b22)
 
-<!-- BADGES PASTEL -->
-<p align="center">
-  <img src="https://img.shields.io/badge/ESTADO-SUEÑO_LÚCIDO-b8b8ff?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MEMORIA-98%25_CORRUPTA-ffd6a5?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ENTIDADES-OBSERVANDO-caffbf?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DESPERTADOR-DESACTIVADO-ffadad?style=for-the-badge"/>
-</p>
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=juli-fra&label=VISITAS%20AL%20PERFIL&color=00e5ff&style=for-the-badge" alt="Contador de visitas al perfil de GitHub">
 
 </div>
 
-### 📺 𝚁 𝙴 𝙶 𝙸 𝚂 𝚃 𝚁 𝙾   𝙳 𝙴   𝙻 𝙰   𝚁 𝙴 𝙰 𝙻 𝙸 𝙳 𝙰 𝙳
+---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+### 📟 REGLA DE LA RELACIÓN
 
 ```yaml
 sujeto: juli-fra
-
 dimension: /dev/limbo
 latencia_mental: 0.004ms
-hora_local: ∞:∞∞ AM
+hora_local: ∞
 
 objetos_en_el_bolsillo:
-  - llave_sin_puerta.key
-  - camara_desechable_1998.jpg
-  - stack_overflow_impreso.pdf
+  - curiosidad.exe
+  - ideas_en_bucle.log
+  - cafe.bin
 
 regla_del_espacio:
   "No mires directo a las esquinas de los repositorios."
+```
+
+### 🧬 SOBRE MÍ
+
+- `> Actualmente:` [cuenta qué estás haciendo]
+- `> Me interesa:` [tecnología, diseño, música...]
+- `> Aprendiendo:` [lenguaje o herramienta]
+
+### 🛠️ TECNOLOGÍAS
+
+<!-- Cambia o elimina las tecnologías para que coincidan con las que usas. -->
+![Tecnologías](https://img.shields.io/badge/HTML5-171b22?style=flat-square&logo=html5&logoColor=00e5ff)
+![Tecnologías](https://img.shields.io/badge/CSS3-171b22?style=flat-square&logo=css3&logoColor=9b5de5)
+![Tecnologías](https://img.shields.io/badge/JavaScript-171b22?style=flat-square&logo=javascript&logoColor=00f5a0)
+
+### 📡 TRANSMISIONES
+
+- [Mis repositorios](https://github.com/juli-fra?tab=repositories)
+
+<div align="center">
+
+`CONEXIÓN ESTABLE · GRACIAS POR VISITAR`
+
+</div>
