@@ -31,7 +31,6 @@
 <td width="55%" valign="top">
 
 ```yaml
-# 👉 1. AQUÍ PONES TU APODO O USUARIO (borra tu_nombre y pon el tuyo):
 sujeto: juli-fra
 
 dimension: /dev/limbo
